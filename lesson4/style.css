@@ -1,0 +1,24 @@
+body {
+  background-color: #f2f2f2;
+}
+
+.lottery-container {
+  background-color: #fff;
+}
+
+.result-box {
+  background-color: #f2f2f2;
+}
+
+table {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+#result-head {
+  display: none;
+}
+
+#result-title {
+  margin-top: 50px;
+}
